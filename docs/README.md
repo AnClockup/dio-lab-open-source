@@ -2,6 +2,7 @@
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
     <span> Profiles README DIO</span>
+    Um projeto desenvolvido por todos que acompanha a plataforma Dio.
 </h1>
 
 ## Sobre o Projeto
